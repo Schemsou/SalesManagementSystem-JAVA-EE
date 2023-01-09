@@ -21,7 +21,7 @@
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js">
 	
 </script>
-<title>Insert title here</title>
+<title>Add Client</title>
 </head>
 <body>
 	<style>
@@ -92,7 +92,7 @@ input[type=submit]:hover {
 	<nav class="navbar navbar-expand-sm bg-light " style="">
 		<div class="container-fluid" style="height: 70px; padding-top: 10px;">
 			<div class="navbar-header navbar-nav">
-				<a class="navbar-brand" href="#"> LOGO</a>
+				<a class="navbar-brand" href="#"> BSMG</a>
 			</div>
 			<ul class="nav navbar-nav">
 				<li><a href="AdminDashboard.jsp" class="navbuttons">Home</a></li>

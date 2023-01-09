@@ -23,7 +23,7 @@
             
 		 </c:if>
 		 
-		 <c:if test="${username != 'admin' && password!='admin'}">
+		 <c:if test="${username != 'admin' || password!='admin'}">
 		 
 		 	<c:redirect url="index.html"></c:redirect>
 		 		 

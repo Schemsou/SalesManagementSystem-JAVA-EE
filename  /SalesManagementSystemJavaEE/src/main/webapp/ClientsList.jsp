@@ -78,7 +78,7 @@ input[type=submit]:hover {
 		<div class="container-fluid" style="height: 70px; padding-top: 15px;">
 			<div class="navbar-header navbar-nav">
 				<a class="navbar-brand" href="#" style="padding-top: 28px;">
-					LOGO</a>
+					BSMG</a>
 			</div>
 			<ul class="nav navbar-nav" style="padding-top: 11px;">
 				<li><a href="AdminDashboard.jsp" class="navbuttons">Home</a></li>

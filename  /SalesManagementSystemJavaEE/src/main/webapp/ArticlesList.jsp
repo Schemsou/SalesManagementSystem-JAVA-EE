@@ -87,7 +87,7 @@ padding-top:15px;
         <div class="container-fluid" style="height:70px; padding-top:10px;">
             <div class="navbar-header navbar-nav">
                 <a class="navbar-brand" href="#">
-                    LOGO</a>
+                    BSMG</a>
             </div>
             <ul class="nav navbar-nav">
                 <li><a href="AdminDashboard.jsp" class="navbuttons" >Home</a></li>
